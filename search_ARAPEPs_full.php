@@ -36,7 +36,7 @@ if ($chrnumber != '') {
   //echo 'all';
 }
 
-$servername = "127.0.0.1"; $username = "root"; $password = "AraDB7168#";
+$servername = "127.0.0.1"; $username = "root"; $password = "";
 $table = 'merged_database';
 $dbhandle = mysql_connect($servername, $username, $password) or die("Unable to connect to MySQL");
 $selected = mysql_select_db("OSIP",$dbhandle) or die("Could not select database");
