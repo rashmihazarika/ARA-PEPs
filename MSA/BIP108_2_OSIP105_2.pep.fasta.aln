@@ -1,0 +1,77 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Grapes_16_21342112_21342267       --LVLKARKALRALKGLVKLQALVRGHNVRKRAKKTLRCMQALVRVQARV 48
+Rice_8_796783_796944              ------ARRALRALKGLVKLQALVRGHNVRKQANMTLRCMQALVRVQARV 44
+Rice_3_25120878_25121045          -----QARRALRALKGIVILQALVRGHIIRKQTSETLQCMQALVRAQARV 45
+Alyrata_5_14391342_14391506       ------ARRALRALKGLVRLQALVRGNHVRKQAQMTMKCMQALVRVQGRV 44
+BrRapa_A03_10530191_10530394      -----QARRSFRALKGLARLQGVVKGYNVKRQTVNAMKYMQQLVRVRSQI 45
+BrRapa_A05_1793625_1793831        -----QARRSFRALKGLVRLQGVVRGHSVKRQTVNAMKYMQQLVRVQSQI 45
+Alyrata_4_21340108_21340314       -----QARKSFRALKGLVRLQGVVRGYSVKRQTINAMKYMQQVVRVQSQI 45
+BrRapa_A04_18179892_18180077      -----QARRSFRALKGLVRLQGVVKGYSVKRQTVNAMKYMQKLVRVQSKI 45
+Alyrata_5_19480702_19480998       ------ARRSFRALKGLVRLQGVVRGHSVKRQTMNAMKYMQLLVRVQTQV 44
+BrRapa_A09_29379039_29379335      ------ARRSFRALKGLVRLQGVVRGHSVKRQTMNAMKYMQLLVRVQTQV 44
+BIP108_2_OSIP105_2	          MEICLQARRSFRALKGLVRLQGVVRGHSVKRQTMNAMKYMQLLVRVQTQV 50
+Grapes_5_23892078_23892326        ------ARRSFRALRGLVRLQGVVRGQNVKRQTTNAMKCMQLLVRVQSQI 44
+Maize_8_163927425_163927601       ----MQARRNYRSLRGLIRLQGVMRGASVRRQTAQAMRCMQTLVRVQAQV 46
+wheat1                            --VIMQARRALRALRGLVRLKSLVEGNSVKRQAASTLRCMQTLARVQSQI 48
+wheat2                            --VIMQARRALRALRGLVRLKSLVEGNSVKRQAASTLRCMQTLARVQSQI 48
+Rice_5_1293851_1294018            ----MQARRALRALRGLVRLKSLVEGNSVKRQAASTLRCMQTLARVQSQI 46
+Alyrata_6_832314_832499           -----QARRALRAMRGLVRLKLLMEGSVVKRQAANTLKCMQTLSRVQSQI 45
+Grapes_8_13438942_13439106        -----QARRALRALRGLVRLQSLIQGTAVKRQAANTLRCMQTLARVQSQI 45
+wheat4                            --------RALRALKGLVRLKSLVQGHSVKRQATSTLRCMQTLSRVQSKI 42
+wheat5                            -----QARRALRALKGLVRLKSLVQGHSVKRQATSTLRCMQTLSRVQSKI 45
+wheat3                            ----IQARRAPRALKGLVRLKSLVQGHSVKRQVTSTLRCMQTLSRAQSKI 46
+Alyrata_4_6483030_6483203         ------ARRTLRALRGMARLKSLLQGKYVKRQMNAMLSSMQTLTRLQTQI 44
+BrRapa_A09_30736896_30737072      -----QASRTLRMLRGMARLKTLLQGKYVKRQMNAMLSSMQTLTRLQAQI 45
+                                          :  * ::*:  *: ::.*  ::::    :  ** : * : ::
+
+Grapes_16_21342112_21342267       CDQR---------------------------------------------- 52
+Rice_8_796783_796944              RDQRMRLSQD---------------------------------------- 54
+Rice_3_25120878_25121045          RARQVRVSLEN--------------------------------------- 56
+Alyrata_5_14391342_14391506       RARRLQVAHDR--------------------------------------- 55
+BrRapa_A03_10530191_10530394      QSRRIKTSENQAQVEKDEAKWAA--------------------------- 68
+BrRapa_A05_1793625_1793831        QSRRIKTLENKAQAERDEAKWAAA-------------------------- 69
+Alyrata_4_21340108_21340314       QSRRIKMLENQAQVEKDEVKWGAS-------------------------- 69
+BrRapa_A04_18179892_18180077      QSHRTKMSENKTQVEKD--------------------------------- 62
+Alyrata_5_19480702_19480998       QSRRIQMLENRAKNDKDDTKLASSLAVSALINLWFPRKKLSPFNIYCSF- 93
+BrRapa_A09_29379039_29379335      QSRRIQMLEHRARNEKDDPKLASSLAVSALMNLWFQRQEQSLRHYYCCCP 94
+BIP108_2_OSIP105_2	          QSRRIQMLENRARNDKDDTKLVSSRMVSALIKLSEKRRSLSVIHFDINYC 100
+Grapes_5_23892078_23892326        QSRRIQMLENQALQRQSQYKNDKELESSIGKWASSQPVS----------- 83
+Maize_8_163927425_163927601       RASRVEAMERRNR------------------------------------- 59
+wheat1                            RSRRLKMSEE---------------------------------------- 58
+wheat2                            RSRRLKMSEE---------------------------------------- 58
+Rice_5_1293851_1294018            RSRRLKMSEE---------------------------------------- 56
+Alyrata_6_832314_832499           RARRIRMSEENQARQKQ--------------------------------- 62
+Grapes_8_13438942_13439106        CYRRIRMSEE---------------------------------------- 55
+wheat4                            QTRRIKMAEE---------------------------------------- 52
+wheat5                            RTRRIKMAEE---------------------------------------- 55
+wheat3                            RTRSIKMAEE---------------------------------------- 56
+Alyrata_4_6483030_6483203         QERRNRLSAENKTR------------------------------------ 58
+BrRapa_A09_30736896_30737072      QERRNRLSEENKAR------------------------------------ 59
+                                                                                    
+
+Grapes_16_21342112_21342267       -----
+Rice_8_796783_796944              -----
+Rice_3_25120878_25121045          -----
+Alyrata_5_14391342_14391506       -----
+BrRapa_A03_10530191_10530394      -----
+BrRapa_A05_1793625_1793831        -----
+Alyrata_4_21340108_21340314       -----
+BrRapa_A04_18179892_18180077      -----
+Alyrata_5_19480702_19480998       -----
+BrRapa_A09_29379039_29379335      S---- 95
+BIP108_2_OSIP105_2	          YFPAV 105
+Grapes_5_23892078_23892326        -----
+Maize_8_163927425_163927601       -----
+wheat1                            -----
+wheat2                            -----
+Rice_5_1293851_1294018            -----
+Alyrata_6_832314_832499           -----
+Grapes_8_13438942_13439106        -----
+wheat4                            -----
+wheat5                            -----
+wheat3                            -----
+Alyrata_4_6483030_6483203         -----
+BrRapa_A09_30736896_30737072      -----
+                                       

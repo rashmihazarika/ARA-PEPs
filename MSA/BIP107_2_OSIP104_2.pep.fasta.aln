@@ -1,0 +1,42 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+BIP107_2_OSIP104_2   	          --------------------------------------------------
+Alyrata_4_21339120_21339254       --------------------------------------------------
+Alyrata_5_19480248_19480634       --------------------------------------------------
+Alyrata_4_21339861_21340016       --------------------------------------------------
+BrRapa_A03_10529936_10530088      --------------------------------------------------
+BrRapa_A09_29378594_29378971      MEKPILFSLSSDNLAVSKRSCVKPNVNITLSSDHQLPLTEQTLFHLLILG 50
+                                                                                    
+
+BIP107_2_OSIP104_2	          ------------------MEKPIHFFPFLDSLVVSKRSCLKPNESITLSL 32
+Alyrata_4_21339120_21339254       ------------------MERPIHFFPSSESLVVSKRSWARLR-EITILF 31
+Alyrata_5_19480248_19480634       ------------------MEKPIHFFPFLDSLVVSKRSCVKLNESITLSL 32
+Alyrata_4_21339861_21340016       ----------------------MLQDPLRLSPLLQERFRLGVCSDERLFI 28
+BrRapa_A03_10529936_10530088      ----------------------MLQDPLHLGLLLQKRFHLRLCSDKRVFL 28
+BrRapa_A09_29378594_29378971      LLLLKCLLKDMSLLQDQSRQELLLQEPFLQNLLLQERLRLGLCSDASMYV 100
+                                                        :   *   . ::.:*       .  : .
+
+BIP107_2_OSIP104_2	          GHQLPLIEQIHHQPLLHLLLLGLLLLKCLLKDMSLLQNPFPQELLTLKSI 82
+Alyrata_4_21339120_21339254       SGLLLLIDQIHFQP------------------------------------ 45
+Alyrata_5_19480248_19480634       GHQVPRIEQRHHQPLFHLLLLGLLLLKFLLRDMSLLQNPFHQELLPLESL 82
+Alyrata_4_21339861_21340016       DQRRRFRSNMLLQQRFKELSEVTW-------------------------- 52
+BrRapa_A03_10529936_10530088      DQSQLSRSNMLLQQRFKQLSEVT--------------------------- 51
+BrRapa_A09_29378594_29378971      DQSQHYWSRKLLLQRFKQLSEVTW-------------------------- 124
+                                  .      ..                                         
+
+BIP107_2_OSIP104_2	          IRSPLLQSRLLQERFRLGLCSDVSLCIDQSQVYWSKMLMQLRFKQLLEVT 132
+Alyrata_4_21339120_21339254       --------------------------------------------------
+Alyrata_5_19480248_19480634       LQS-----RLLHERFRLRLCYNVSLCIDQSQVYWSKMLMQQRFKQLLEVT 127
+Alyrata_4_21339861_21340016       --------------------------------------------------
+BrRapa_A03_10529936_10530088      --------------------------------------------------
+BrRapa_A09_29378594_29378971      --------------------------------------------------
+                                                                                    
+
+BIP107_2_OSIP104_2	          W 133
+Alyrata_4_21339120_21339254       -
+Alyrata_5_19480248_19480634       W 128
+Alyrata_4_21339861_21340016       -
+BrRapa_A03_10529936_10530088      -
+BrRapa_A09_29378594_29378971      -
+                                   
