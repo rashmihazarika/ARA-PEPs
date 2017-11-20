@@ -163,7 +163,7 @@ if ($cond0 != '' || $chrcond != '') {
 
 //-----------------------------------------------------------------------------------------------------------------------------------
 
-$servername = "127.0.0.1"; $username = "root"; $password = "AraDB7168#";
+$servername = "127.0.0.1"; $username = "root"; $password = "";
 $dbhandle = mysql_connect($servername, $username, $password) 
 or die("Unable to connect to MySQL");
 
