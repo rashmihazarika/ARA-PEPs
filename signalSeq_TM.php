@@ -47,7 +47,7 @@ echo '</p><p>';
 
 //------------------------------------------------------------------------------------------------------------------------------------
 
-$servername = "127.0.0.1"; $username = "root"; $password = "AraDB7168#"; $database = "OSIP";
+$servername = "127.0.0.1"; $username = "root"; $password = ""; $database = "OSIP";
 
 $dbhandle = mysql_connect($servername, $username, $password) 
 or die("Unable to connect to MySQL");
